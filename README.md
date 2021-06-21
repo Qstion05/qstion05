@@ -15,7 +15,7 @@
 ###### 🙆‍♂️So I will try harder. For my dreams!
 
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=&link=https://www.instagram.com/qstion_05/)](https://www.instagram.com/qstion_05/) ![Discord](https://img.shields.io/badge/Discord:%20Qs%230455-white?labelColor=white&style=flat&logo=discord&logoColor=5865f2&)
-[![Tistory](https://img.shields.io/badge/Instagram-white?style=flat&logo=Blogger&logoColor=FF5722&link=https://security-qstion05.tistory.com)](https://security-qstion05.tistory.com)
+[![Tistory](https://img.shields.io/badge/Tistory(blog)-white?style=flat&logo=Blogger&logoColor=FF5722&link=https://security-qstion05.tistory.com)](https://security-qstion05.tistory.com)
 
 
 
