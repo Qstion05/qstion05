@@ -18,13 +18,13 @@
 
 
 
-#### 💻 Github Stats
+### 💻 Github Stats
 
 ------
 
 [![Qstion05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qstion05&show_icons=true)](https://github.com/Qstion05)
 
-#### ✔️ Programming Languages
+### ✔️ Programming Languages
 
 ------
 
@@ -33,19 +33,19 @@
 
 ###### ⭐I recently started studying C++.
 
-#### 📅Goals for 2021
+### 📅Goals for 2021
 
 ------
 
-##### :one:: Solve **two problems** per week.(like baekjoon, hackerrank, etc..)
+###### :one:: Solve **two problems** per week.(like baekjoon, hackerrank, etc..)
 
-##### :two:: Study **C++** hard.
+###### :two:: Study **C++** hard.
 
-##### :three:: Study **Algorithms**.
+###### :three:: Study **Algorithms**.
 
 
 
-#### ✋Bye! Have a good time in Github!
+### ✋Bye! Have a good time in Github!
 
 ------
 
