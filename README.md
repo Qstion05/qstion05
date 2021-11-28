@@ -14,9 +14,7 @@
 
 ###### 🙆‍♂️So I will try harder. For my dreams!
 
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=&link=https://www.instagram.com/qstion_05/)](https://www.instagram.com/qstion_05/) ![Discord](https://img.shields.io/badge/Discord:%20Qs%230455-white?labelColor=white&style=flat&logo=discord&logoColor=5865f2&)
-[![Tistory](https://img.shields.io/badge/Tistory(blog)-white?style=flat&logo=Blogger&logoColor=FF5722&link=https://security-qstion05.tistory.com)](https://security-qstion05.tistory.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=&link=https://www.instagram.com/qstion_05/)](https://www.instagram.com/qstion_05/) ![Discord](https://img.shields.io/badge/Discord:%20YunSungWoo%233213-white?labelColor=white&style=flat&logo=discord&logoColor=5865f2&)
 
 
 ### 💻 Github Stats
@@ -38,11 +36,11 @@
 
 ------
 
-###### :one:: Solve **two problems** per week.(like baekjoon, hackerrank, etc..)
+###### :one:: Solve **One problems** per day.(like baekjoon, hackerrank, etc..) & make up this code in Notion
 
-###### :two:: Study **C++** hard.
+###### :two:: Study **Python** hard.
 
-###### :three:: Study **Algorithms**.
+###### :three:: Study **Computer_Security**.
 
 
 
