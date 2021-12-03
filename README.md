@@ -32,7 +32,7 @@
 
 ###### ⭐I recently started studying C++.
 
-### 📅Goals for 2021
+### 📅Goals for 2022 
 
 ------
 
