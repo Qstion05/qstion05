@@ -32,16 +32,6 @@
 
 ###### ⭐I recently started studying C++.
 
-### 📅Goals for 2022 
-
-------
-
-###### :one:: Solve **One problems** per day.(like baekjoon, hackerrank, etc..) & make up this code in Notion
-
-###### :two:: Study **Python** hard.
-
-###### :three:: Study **Computer_Security**.
-
 
 
 ### ✋Bye! Have a good time in Github!
