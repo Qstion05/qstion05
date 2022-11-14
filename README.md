@@ -30,7 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qstion05&layout=compact)](https://github.com/Qstion05)
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-A9F5E1?style=flat&logo=python&logoColor=yellow)       ![C++](https://img.shields.io/badge/C++-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-A9F5E1?style=flat&logo=Cplusplus&logoColor=blue)
 
-###### ⭐I recently started studying C++.
 
 
 
