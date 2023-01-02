@@ -6,14 +6,7 @@
 
 ###### :smile: My name is Sung Woo. I'm a student at Gachon University.
 
-###### 🙍‍♂️ I live in Korea. And naturally, I speak Korean.
-
 ###### :fire: I'm trying to become an information security programmer.
-
-###### 👶However, everything is clumsy yet... :(
-
-###### 🙆‍♂️So I will try harder. For my dreams!
-
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=&link=https://www.instagram.com/qstion_05/)](https://www.instagram.com/qstion_05/) ![Discord](https://img.shields.io/badge/Discord:%20YunSungWoo%233213-white?labelColor=white&style=flat&logo=discord&logoColor=5865f2&)
 
 
