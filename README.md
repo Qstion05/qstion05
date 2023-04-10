@@ -6,7 +6,7 @@
 
 ###### :smile: My name is Sung Woo. I'm a student at Gachon University.
 
-###### :fire: I'm trying to become an information Crytograpy-security programmer.
+###### :fire: I'm trying to become an information Cryptograpy-security programmer.
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=&link=https://www.instagram.com/qstion_05/)](https://www.instagram.com/qstion_05/) ![Discord](https://img.shields.io/badge/Discord:%20YunSungWoo%233213-white?labelColor=white&style=flat&logo=discord&logoColor=5865f2&)
 
 
